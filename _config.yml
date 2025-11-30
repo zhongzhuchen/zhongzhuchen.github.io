@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Zhongzhu Chen"
 description              : &description "Applied Scientist at Amazon AGI | Ph.D. in Operations Research"
 url                      : https://zhongzhuchen.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/zhongzhuchen" # the subpath of your site, e.g. "/blog"
 repository               : "zhongzhuchen/zhongzhuchen"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
