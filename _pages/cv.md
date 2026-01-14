@@ -27,11 +27,7 @@ Bellevue, WA | 2024 - Present
 * Developing reinforcement learning scaling laws for Amazon Nova models
 * Building context-engineering environments and agentic debugging tools used across internal projects
 * Developed Amazon Nova video generation model
-
-**Applied Scientist, Amazon SCOT**
-Bellevue, WA | 2024
-* Developed and deployed the first industrial-level reinforcement learning model for Amazon's inventory control system
-* Improved long-term free cash flow by 5% versus previous production model
+* Developed Logistics Foundation Model
 
 **Applied Scientist Intern, Amazon**
 Bellevue, WA | 2022, 2023

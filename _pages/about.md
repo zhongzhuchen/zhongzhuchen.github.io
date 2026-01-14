@@ -17,11 +17,11 @@ Current Research Focus:
 - **LLM Scaling Laws**
 - **Reinforcement Learning**
 
-## Experience
+<!-- ## Experience
 
-| Applied Scientist | Amazon AGI | Bellevue, WA | 2024 - Now |
+| Applied Scientist | Amazon | Bellevue, WA | 2024 - Now |
 | Applied Scientist Intern | Amazon | Bellevue, WA | 2022, 2023 |
-| Ph.D. Student | University of Michigan | Ann Arbor, MI | 2019 - 2024 |
+| Ph.D. Student | University of Michigan | Ann Arbor, MI | 2019 - 2024 | -->
 
 ## Publications
 
