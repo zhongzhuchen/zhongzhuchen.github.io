@@ -21,13 +21,12 @@ Peking University, China
 
 ## Experience
 
+**Research Scientist, ByteDance Seed**
+* Working on LLM pretraining and midtraining
+
 **Applied Scientist, Amazon AGI**
-Bellevue, WA | 2024 - Present
-* Tech Lead for diffusion language models - leading development of Amazon Nova diffusion language models and scaling laws
-* Developing reinforcement learning scaling laws for Amazon Nova models
-* Building context-engineering environments and agentic debugging tools used across internal projects
+* Worked on LLM pretraining
 * Developed Amazon Nova video generation model
-* Developed Logistics Foundation Model
 
 **Applied Scientist Intern, Amazon**
 Bellevue, WA | 2022, 2023

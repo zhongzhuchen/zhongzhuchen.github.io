@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Zhongzhu Chen"
 title_separator          : "-"
 name                     : &name "Zhongzhu Chen"
-description              : &description "Applied Scientist at Amazon AGI | Ph.D. in Operations Research"
+description              : &description "Research Scientist at ByteDance Seed | Ph.D. in Operations Research"
 url                      : https://zhongzhuchen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhongzhuchen/zhongzhuchen.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhongzhu Chen"
   pronouns         : # example: "she/her"
-  bio              : "Applied Scientist at Amazon AGI"
+  bio              : "Research Scientist at ByteDance Seed"
   location         : "Bellevue, WA"
-  employer         : "Amazon AGI"
+  employer         : "ByteDance Seed"
   uri              : # URL
   email            : "zhongzhc@umich.edu" 
 
