@@ -24,7 +24,7 @@ Peking University, China
 **Research Scientist, ByteDance Seed**
 * Working on LLM pretraining and midtraining
 
-**Applied Scientist, Amazon AGI**
+**Applied Scientist, Amazon**
 * Worked on LLM pretraining
 * Developed Amazon Nova video generation model
 
