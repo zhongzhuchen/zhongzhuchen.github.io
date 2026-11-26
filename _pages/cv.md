@@ -22,10 +22,10 @@ Peking University, China
 ## Experience
 
 **Research Scientist, ByteDance Seed**
-* Working on LLM pretraining and midtraining
+* Working on language model pretraining and midtraining
 
 **Applied Scientist, Amazon**
-* Worked on LLM pretraining
+* Worked on language model pretraining
 * Developed Amazon Nova video generation model
 
 **Applied Scientist Intern, Amazon**
