@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at ByteDance Seed, working on **LLM pretraining and midtraining**. Previously, I was an Applied Scientist at Amazon AGI, where I worked on LLM pretraining and video generation models.
+I am a Research Scientist at ByteDance Seed, working on **pretraining and midtraining**. Previously, I was an Applied Scientist at Amazon AGI, where I worked on pretraining and video generation models.
 
 I earned my Ph.D. in optimization from the University of Michigan - Ann Arbor in 2024, where I was honored to be supervised by Prof. [Jon Lee](https://sites.google.com/site/jonleewebpage/) and Prof. [Marcia Fampa](https://marciafampa.com/index_eng.html). Before that, I obtained my bachelor's degree from the School of Mathematical Sciences at Peking University in 2019.
 
