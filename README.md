@@ -4,7 +4,7 @@ Personal academic website built with the [AcademicPages](https://github.com/acad
 
 ## About
 
-This website showcases my work as an Applied Scientist at Amazon AGI, including publications, research interests, and professional experience.
+This website showcases my work as an Applied Scientist at Amazon, including publications, research interests, and professional experience.
 
 **Live site:** [https://zhongzhuchen.github.io](https://zhongzhuchen.github.io)
 
